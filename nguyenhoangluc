@@ -236,3 +236,13 @@ http://nguyenhoangluc:nguyenhoangluc@hothanhdam.dsmynas.com:9981/stream/channeli
 http://nguyenhoangluc:nguyenhoangluc@hothanhdam.dsmynas.com:9981/stream/channelid/1224736827?profile=pass
 #EXTINF:-1 group-title="Khác" tvg-logo="https://i.imgur.com/YtZGuSy.png" tvg-id="fb941565c06ca668b2ddc7386d79310c",Quốc Hội HD (HD 4Mbps)
 http://nguyenhoangluc:nguyenhoangluc@hothanhdam.dsmynas.com:9981/stream/channelid/1695913211?profile=pass
+
+#------------------- Sự Kiện-------------------#
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NWtbAS5.png" tvg-id="fb5a3bfce162e1a1ee01efcc9c3ea7b8",Event 801
+http://nguyenhoangluc:nguyenhoangluc@hothanhdam.dsmynas.com:9981/stream/channelid/2084264699?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NWtbAS5.png" tvg-id="e2c8c37c9e80b65850c21e0359b796ba",Event 802
+http://nguyenhoangluc:nguyenhoangluc@hothanhdam.dsmynas.com:9981/stream/channelid/2093205730?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NWtbAS5.png" tvg-id="1f2e92af78a5c988d1796feb50721ccd",Event 803
+http://nguyenhoangluc:nguyenhoangluc@hothanhdam.dsmynas.com:9981/stream/channelid/798109215?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NWtbAS5.png" tvg-id="f3da5a8bbc0d5672e88a3fa8245a4cd3",Event 804
+http://nguyenhoangluc:nguyenhoangluc@hothanhdam.dsmynas.com:9981/stream/channelid/190503667?profile=pass
