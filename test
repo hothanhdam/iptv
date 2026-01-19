@@ -4,6 +4,8 @@
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png" tvg-id="473d2dddfaf3e77dba0b6c4f9c150776",VTV1 (HD 8.5Mbps)
 http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/1563245895?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfkmvAY.png" tvg-id="df5dcd86c05bd2acb60f230f16336d41",VTV1 (Backup)
+http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/114122207?profile=pass
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png" tvg-id="e2a4d51749c25cedc27176bf5ca189b6",VTV2 (HD 8.5Mbps)
 http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/399877346?profile=pass
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" tvg-id="ae62802c5017b9370f849b4560a0988e",VTV3 (HD 8.5Mbps)
@@ -14,10 +16,8 @@ http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/1457
 http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/1091070404?profile=pass
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png" tvg-id="19206e7a0ef96d8a3fc7e7017ba8c698",VTV5 (HD 8.5Mbps)
 http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/2054037529?profile=pass
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png" tvg-id="2baa6571c78df1c2de9f494a2c7ca608",VTV5 Tây Nam Bộ (HD 9Mbps)
-http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/1902488107?profile=pass
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png" tvg-id="4ca658037c27605b9b571033fd3794f6",VTV5 Tây Nguyên (HD 9Mbps)
-http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/56141388?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7qPKNFU.png" tvg-id="10175bdc813cd5fd5d18442c5d3db1ba",VTV5 (Backup)
+http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/1549473552?profile=pass
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png" tvg-id="47ea404368a80eb65ea447dd749c96c0",VTV7 (HD 8.5Mbps)
 http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/1128327751?profile=pass
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png" tvg-id="e301f8b58656d44465645350f117a1b1",VTV8 (HD 8.5Mbps)
@@ -199,24 +199,7 @@ http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/1207
 http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/1783622972?profile=pass
 
 #----------------k+-----------------------#
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/QPkuBRi.png" tvg-id="ebdd8cb4733fcc1f7fd90f7e170ec30d",K+ Action (HD 9Mbps)
-http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/881647083?profile=pass
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/QPkuBRi.png" tvg-id="939ca7698d81508caa1cb39c9ccdabfb",K+ Action (HD 9Mbps)
-http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/1772592275?profile=pass
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/As4bwUs.png" tvg-id="75aadf80dbe8fee9a2d353e292280f90",K+ Cine (HD 9Mbps)
-http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/14658165?profile=pass
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/As4bwUs.png" tvg-id="4ad2bcee1ff9466e23237fabf3a844c2",K+ Cine (HD 9Mbps)
-http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/1857868362?profile=pass
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/erWqYxh.png" tvg-id="a8b3c6d94de3cc3851a817ca1f3fbdd3",K+ Kids (HD 9Mbps)
-http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/1506194344?profile=pass
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/6yiAtRg.png" tvg-id="ca4113b3bb17be4d0553e072f9844b0f",K+ Sport 1 (HD 9Mbps)
-http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/856900042?profile=pass
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/6yiAtRg.png" tvg-id="b2a10c50766d0cd451c371243cd08509",K+ Sport 1 (HD 9Mbps)
-http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/1343005106?profile=pass
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/EFeyqYX.png" tvg-id="99609ea67b7812be60154798b800ac22",K+ Sport 2 (HD 9Mbps)
-http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/647913625?profile=pass
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/EFeyqYX.png" tvg-id="35f4ae71cbd9c7b87521774500a9a95e",K+ Sport 2 (HD 9Mbps)
-http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/1907291189?profile=pass
+
 #EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/hXYkO7B.png" tvg-id="ff90feb4c6a1b18e9196418085921997",SPOTV (HD 9Mbps)
 http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/889098495?profile=pass
 #EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/hXYkO7B.png" tvg-id="959f44ec7cbdcb5d1b0dbfa69afb8aac",SPOTV (HD 9Mbps)
