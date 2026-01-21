@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png" tvg-id="473d2dddfaf3e77dba0b6c4f9c150776",VTV1 (HD 8.5Mbps)
 http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/1563245895?profile=pass
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png" tvg-id="df5dcd86c05bd2acb60f230f16336d41",VTV1 (Backup)
-http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/114122207?profile=pass
+http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/1628011472?profile=pass
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png" tvg-id="e2a4d51749c25cedc27176bf5ca189b6",VTV2 (HD 8.5Mbps)
 http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/399877346?profile=pass
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" tvg-id="ae62802c5017b9370f849b4560a0988e",VTV3 (HD 8.5Mbps)
@@ -15,7 +15,7 @@ http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/1457
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png" tvg-id="c46908c1b2a51c828e8ab49851df928e",VTV4 (HD 8.5Mbps)
 http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/1091070404?profile=pass
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png" tvg-id="19206e7a0ef96d8a3fc7e7017ba8c698",VTV5 (HD 8.5Mbps)
-http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/2054037529?profile=pass
+http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/1116821644?profile=pass
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png" tvg-id="10175bdc813cd5fd5d18442c5d3db1ba",VTV5 (Backup)
 http://hothanhdam:thanhdam1010@hothanhdam.dsmynas.com:9981/stream/channelid/1549473552?profile=pass
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png" tvg-id="47ea404368a80eb65ea447dd749c96c0",VTV7 (HD 8.5Mbps)
