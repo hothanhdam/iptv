@@ -1,5 +1,8 @@
 name: Replace TVHeadend URL
 
+permissions:
+  contents: write
+  
 on:
   workflow_dispatch:
   push:
