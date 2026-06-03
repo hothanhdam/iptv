@@ -15,7 +15,7 @@ jobs:
       - name: Replace old domain
         run: |
           find . -type f -exec sed -i \
-          's|Hothanhdam\.dsmynas\.com:9981|tvh.hothanhdam.dsmynas.com|gI' {} +
+          's|hothanhdam\.dsmynas\.com:9981|tvh.hothanhdam.dsmynas.com|gI' {} +
 
       - name: Commit changes
         run: |
