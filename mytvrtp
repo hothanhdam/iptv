@@ -14,6 +14,8 @@ rtp://@232.84.3.106:10600
 rtp://@232.84.2.33:10606
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 8.5Mbps)
 rtp://@232.84.1.119:10266
+#EXTINF:0 tvg-id="vtv6new" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV 6new (HD 8.5Mbps)
+rtp://@232.84.3.18:11944
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 8.5Mbps)
 rtp://@232.84.2.202:10996
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 8.5Mbps)
