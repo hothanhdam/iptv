@@ -95,16 +95,7 @@ http://192.168.11.25:4022/udp/232.84.3.218:11230
 http://192.168.11.25:4022/udp/232.84.3.78:11584
 
 #------------------------SCTV------------------------#
-#EXTINF:0 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.imgur.com/imhFxSG.png",SCTV1 (HD 5Mbps)
-http://192.168.11.25:4022/udp/232.84.3.34:11848
-#EXTINF:0 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.imgur.com/UpBZOaH.png",SCTV2 (HD 6Mbps)
-http://192.168.11.25:4022/udp/232.84.3.33:11854
-#EXTINF:0 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.imgur.com/wZrGAtH.png",SCTV3 (HD 7Mbps)
-http://192.168.11.25:4022/udp/232.84.3.32:11860
-#EXTINF:0 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://i.imgur.com/ntSnAMJ.png",SCTV4 (HD 7Mbps)
-http://192.168.11.25:4022/udp/232.84.3.31:11866
-#EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 7Mbps)
-http://192.168.11.25:4022/udp/232.84.3.30:11872
+
 #EXTINF:0 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://i.imgur.com/EdjXUUb.png",SCTV7 (HD 6Mbps)
 http://192.168.11.25:4022/udp/232.84.3.29:11878
 #EXTINF:0 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://i.imgur.com/NULoCoA.png",SCTV8 (HD 5Mbps)
