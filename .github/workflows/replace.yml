@@ -1,0 +1,35 @@
+name: Replace TVHeadend URL
+
+permissions:
+  contents: write
+  
+on:
+  workflow_dispatch:
+  push:
+
+jobs:
+  replace-link:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Replace old domain
+        run: |
+          find . -type f -exec sed -i \
+          's|hothanhdam\.dsmynas\.com:9981|tvh.hothanhdam.dsmynas.com|gI' {} +
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add .
+
+          git commit -m "Auto replace TVH domain" || echo "No changes"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
